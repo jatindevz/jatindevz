@@ -5,7 +5,7 @@ I'm a passionate developer with a love for building useful and beautiful softwar
 
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/jatin-patil-31075b259/) ![Twitter](https://x.com/jatinnvw)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jatin-patil-31075b259/) [Twitter](https://x.com/jatinnvw)
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
