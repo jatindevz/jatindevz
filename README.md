@@ -116,18 +116,7 @@ Ask me about:
 **⭐ "First, solve the problem. Then, write the code." – John Johnson**
 
 ---
-  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
 
 </div>
 
 
-3. **Customize projects section** with your actual work
-
-4. **Update fun facts** to reflect your personality
-
-5. **Add your portfolio URL** when available
-
----
-
-**✨ Pro tip:** Update this README quarterly to reflect your growing skills and new accomplishments!
