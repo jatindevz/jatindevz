@@ -119,21 +119,8 @@ Ask me about:
   
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
 
-*Last updated: {{DATE}}*  
-*Replace `YOUR_USERNAME` with your actual GitHub username in the stats badges*
-
 </div>
 
----
-
-## 🎯 Quick Setup Instructions
-
-1. **Replace placeholders:**
-   - `YOUR_USERNAME` in GitHub stats URLs
-   - `https://example.com` links with your actual projects
-   - `{{DATE}}` with current date
-
-2. **Add your blog RSS feed** in the blog section (optional)
 
 3. **Customize projects section** with your actual work
 
