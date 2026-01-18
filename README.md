@@ -25,45 +25,6 @@
 
 ---
 
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  ![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-  
-  ![Streak Stats](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
-  
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### **[Project Name] - Modern E-commerce Platform**
-⚡ **Tech Stack:** Next.js 14, TypeScript, Stripe, PostgreSQL, Prisma  
-📦 **Features:** Real-time inventory, AI-powered recommendations, PWA capabilities  
-🔗 [Live Demo](https://example.com) | [Source Code](https://github.com/...)
-
-### **[Project Name] - Developer Productivity Tool**
-⚡ **Tech Stack:** Electron, React, Tauri, Rust  
-📦 **Features:** Cross-platform, Plugin ecosystem, Cloud sync  
-🔗 [Download](https://example.com) | [Documentation](https://github.com/...)
-
----
-
-## 📝 Latest Thoughts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Components](https://example.com/blog/react-components)
-- [The Future of Full-Stack Development](https://example.com/blog/future-of-fullstack)
-- [Authentication Best Practices in 2024](https://example.com/blog/auth-2024)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🎯 Let's Collaborate On
 
 - **🚀 Startup MVPs** that need rapid development
